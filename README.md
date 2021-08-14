@@ -2,6 +2,10 @@
 
 Dummy project to practice with React and Typescript.
 
+# Live version
+
+You can play with project here [todo-app-vercel](https://ts-react-todo-app.vercel.app).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
