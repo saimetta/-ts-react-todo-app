@@ -1,5 +1,4 @@
 import React, { Fragment, useState } from 'react';
-import ReactDOM from 'react-dom';
 
 //References an existing type
 type FormElement = React.FormEvent<HTMLFormElement>;
@@ -140,7 +139,4 @@ export default function App(): JSX.Element {
          </Fragment>
 
     );
-}
-
-const root = document.getElementById('app-root');
-ReactDOM.render(<App />, root);
+};
